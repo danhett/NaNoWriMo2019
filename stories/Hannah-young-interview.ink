@@ -29,7 +29,7 @@ She battles fruitlessley with a cheap lighter in the wind, then gives up and thr
 == check_assignment ==
 This is the other kind of shitty assignment Hannah keeps getting: the tough stuff. Not the /big/ stuff, oh no, far too junior for the really meaty stories. No. Hannah gets the Tough Stuff - the ambulance-chasing, the sad photos, the invasive questions outside the courthouse. This is the side of the job she hates, and of course also the part of the job that she gets the most flack for. Like she wants to be here. 
 
-This one's a doozy. She's here to cold-call a local woman, apparently her husband... is that "husband"? Hannah can't read her own scrawl... yeah, her husband, is in intensive care following a hit and run. No suspects, police calling out for witnesses, and he's in a proper state by the sounds of things. Circling the drain they think. And of course, she's been sent here to get the quote off this poor fucking woman, under the pretence of helping catch the driver. 
+This one's a doozy. She's here to cold-call a local woman, apparently her husband... is that "husband"? Hannah can't read her own scrawl... yeah, her husband, is in intensive care after getting beaten up by some bastards in the city centre. No suspects, police calling out for witnesses, and he's in a proper state by the sounds of things. Circling the drain they think. And of course, she's been sent here to get the quote off this poor fucking woman, under the pretence of helping them. 
 
 Hannah knows how this works by now. Grisly stories and the misery of others is what sells papers. That's why she's here really. Fucking ghouls.
 
@@ -126,7 +126,34 @@ Part of her feels better having not invaded this woman's life, this time at leas
     * [Hannah gets in her car, and drives away.] -> END
 
 == in_the_house ==
-TO DO: conversation here.
+The woman introduces herself as Jane, and like any host in a British house (no matter the circumstances) she puts the kettle on, and offers Hannah a cup of tea, politely accepted. 
+
+Hannah feels like an invader here. In many ways she is. She clears her throat quietly as the kettle boils, and Jane looks at it, seemingly lost in thought.
+
+"I... I was hoping to ask a few questions about what happened, we're going to write about it in tomorrow's edition, sometimes things turn up when readers see this stuff..."
+
+It doesn't feel like Jane is listening. It doesn't feel like she's even in the room. The kettle clicks off, and she makes two drinks, still clearly on autopilot. 
+
+They sit at the table. Hannah sips at the tea, notebook in front of her, unsure how to proceed. This is horrible. She shouldn't be here. She should have left.
+    * [Ask about her husband.] -> ask_about_husband
+    * [Ask if Jane is OK.] -> ask_if_OK
+    
+== ask_about_husband == 
+Hannah begins to ask questions. She frames them as sympathetic, tutting and shaking her head a little as she scrawls down Jane's re-telling. Quietly she focuses in the bad parts more - the attack, his injuries, the police. She doesn't want to, but this is really what the editor wants. It's a terrible thing, knowing what sells papers, and being the person responsible for getting it. 
+
+Jane's answers begin to shorten, becoming one-word responses or simply nods or shakes of the head.
+    * [Ask if Jane is OK.] -> ask_if_OK
+
+== ask_if_OK == 
+Hannah can't go on pressing this poor woman, she's got what she needs and can fill in the blanks later. There's enough for the paper to print the gory details, and she can already tell the editors will leave out everything but those parts. To them, the people in these stories aren't really people a lot of the time, they're just ways of getting copies sold. 
+
+Hannah puts her pen down and reaches across to the now silent woman. 
+
+"Are.... are you OK?"
+
+The exhausted woman shakes her head, but says nothing. She's not okay. Tears are falling down her cheeks as she holds a photo of her husband on their wedding day. 
+
+Hannah feels like an invader in this woman's existence, and is. She never forgets this day.
 
 -> END
 
