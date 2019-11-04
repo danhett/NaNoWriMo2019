@@ -1,5 +1,5 @@
 # theme: dark
-# author: Dan Hett (hellodanhett@gmail.com)
+# author: Dan Hett
 
 DRAFT. This scene is an early one in the narrative, and shows David being diverted towards the unfolding scene by his editor.
 
