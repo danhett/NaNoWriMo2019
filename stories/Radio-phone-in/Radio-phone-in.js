@@ -1,0 +1,1 @@
+var storyContent = ﻿{"inkVersion":19,"root":[[{"#":"theme: dark"},{"#":"author: Dan Hett"},"^[DRAFT]","\n",{"->":"story_start"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"story_start":["^Radio phone in","\n","end",{"#f":1}],"#f":1}],"listDefs":{}};
